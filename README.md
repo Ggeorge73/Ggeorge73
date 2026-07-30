@@ -20,6 +20,7 @@ I bridge executive-level program leadership with hands-on product building. Acro
 | Project | What it demonstrates | Evidence |
 |---|---|---|
 | [MyWowPet](https://github.com/Ggeorge73/mywowpet) | Shopify-connected e-commerce delivery, Firebase integration, automated testing, CI/CD, security gates, and operational documentation | [Case study](case-studies/mywowpet.md) · [Live launch page](https://www.mywowpet.com) |
+| [AlwaysWomen](https://github.com/Ggeorge73/alwayswomen) | Live Shopify storefront delivery, sustainable-fashion merchandising, category navigation, international shopping support, and customer-experience design | [Case study](case-studies/alwayswomen.md) · [Live store](https://alwayswomen.com) |
 | [DiamondEcho](https://github.com/Ggeorge73/DiamondEcho) | AI-enabled property intelligence, deterministic deal analysis, responsible-AI guardrails, React/FastAPI delivery, and frontend/backend CI | [Case study](case-studies/diamond-echo.md) |
 | [Edge Racer](https://github.com/Ggeorge73/edge-racer) | AI-assisted product prototyping, React/TypeScript game development, Firebase authentication, cloud progress, and global/country leaderboards | [Case study](case-studies/edge-racer.md) |
 
@@ -35,6 +36,19 @@ MyWowPet is a decoupled e-commerce implementation combining a custom storefront,
 - DevSecOps gates using Gitleaks, Semgrep, and Trivy
 - CI/CD configuration guidance for Shopify theme deployment and protected production environments
 - Architecture, training, audit, and operational runbook documentation
+
+## Additional commerce build: AlwaysWomen
+
+AlwaysWomen is a live Shopify lifestyle storefront focused on sustainable apparel and accessories. It demonstrates a second e-commerce delivery context with:
+
+- curated collection and category navigation
+- product merchandising, pricing, availability, and sold-out states
+- cart, checkout, customer login, and policy experiences
+- international country/region and currency selection
+- email subscription and customer-acquisition touchpoints
+- AI-assisted concept development, storefront refinement, and launch validation
+
+[Visit AlwaysWomen](https://alwayswomen.com) · [Read the case study](case-studies/alwayswomen.md)
 
 ## Selected enterprise delivery results
 
@@ -66,5 +80,6 @@ I use AI coding tools as accelerators for discovery, prototyping, implementation
 
 - [Recruiter evidence matrix](EVIDENCE_MATRIX.md)
 - [MyWowPet case study](case-studies/mywowpet.md)
+- [AlwaysWomen case study](case-studies/alwayswomen.md)
 - [DiamondEcho case study](case-studies/diamond-echo.md)
 - [Edge Racer case study](case-studies/edge-racer.md)
