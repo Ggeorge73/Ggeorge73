@@ -5,7 +5,7 @@
 Atlanta, Georgia · Eastern Time  
 [LinkedIn](https://www.linkedin.com/in/olugbenga-george/) · [Featured repositories](https://github.com/Ggeorge73?tab=repositories)
 
-I bridge executive-level program leadership with hands-on product building. Across more than 15 years, I have led complex technology portfolios, enterprise software delivery, cross-functional transformation, governance, risk, adoption, and executive reporting. I also use AI-assisted development ("vibe coding") to turn product ideas into working applications, e-commerce experiences, automated tests, and delivery pipelines.
+I bridge executive-level program leadership with hands-on product building. Across more than 15 years, I have led complex technology portfolios, enterprise software delivery, cross-functional transformation, governance, risk, adoption, and executive reporting. I also use AI-assisted development to turn product ideas into working applications, e-commerce experiences, automated tests, and delivery pipelines.
 
 ## What I bring
 
