@@ -126,7 +126,7 @@ This project required more than implementation:
 
 ## Next improvements
 
-1. Publish a concise root README with screenshots and a system diagram.
+1. Add representative screenshots and a short guided product walkthrough to the root README.
 2. Add measurable accessibility, Lighthouse, and end-to-end reliability baselines.
 3. Document staging-to-production promotion and rollback exercises.
 4. Add architecture decision records for major platform choices.
