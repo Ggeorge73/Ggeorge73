@@ -77,12 +77,11 @@ Edge Racer demonstrates:
 ## Current boundaries
 
 - The repository metadata identifies server-side Gemini capability, but the portfolio should not imply that every game feature is AI-powered.
-- The current root README is a generic AI Studio setup guide and should be replaced before recruiter outreach.
 - No claims are made about player count, engagement, monetization, production scale, or commercial outcomes.
 
 ## Next improvements
 
-1. Replace the root README with the recruiter-ready draft.
+1. Add screenshots and a concise gameplay walkthrough to the root README.
 2. Add automated game-engine and Firebase integration tests.
 3. Publish a hosted demo and a 60-second gameplay video.
 4. Add performance budgets and mobile-device validation.
