@@ -115,13 +115,11 @@ DiamondEcho demonstrates:
 
 - This is an MVP and portfolio implementation, not professional real-estate, legal, tax, lending, or investment advice.
 - The repository does not establish live MLS access, live rates, customer adoption, production scale, or commercial outcomes.
-- The root README is currently a placeholder and should be replaced before recruiter outreach.
 
 ## Next improvements
 
-1. Replace the root README with the recruiter-ready draft in this portfolio package.
-2. Publish screenshots and a short recorded workflow.
-3. Add a versioned evaluation dataset and scorecard for AI behavior.
-4. Add authentication, rate limiting, production observability, and kill-switch controls.
-5. Document architecture decisions and deployment environments.
+1. Publish screenshots and a short recorded workflow.
+2. Add a versioned evaluation dataset and scorecard for AI behavior.
+3. Add authentication, rate limiting, production observability, and kill-switch controls.
+4. Document architecture decisions and deployment environments.
 
