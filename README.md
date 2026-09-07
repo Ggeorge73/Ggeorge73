@@ -78,7 +78,6 @@ I use AI coding tools as accelerators for discovery, prototyping, implementation
 
 ## Portfolio guide
 
-- [Recruiter evidence matrix](EVIDENCE_MATRIX.md)
 - [MyWowPet case study](case-studies/mywowpet.md)
 - [AlwaysWomen case study](case-studies/alwayswomen.md)
 - [DiamondEcho case study](case-studies/diamond-echo.md)
