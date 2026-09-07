@@ -19,6 +19,7 @@ I bridge executive-level program leadership with hands-on product building. Acro
 
 | Project | What it demonstrates | Evidence |
 |---|---|---|
+| [Law Suite](https://github.com/Ggeorge73/Law-Suite) | Legal-AI product prototype: practitioner matter review plus a Firm Operations admin module for adoption analytics, SSO/SCIM/RBAC governance coverage, access review, and leadership reporting | [Repo docs](https://github.com/Ggeorge73/Law-Suite/tree/main/docs) · [Live preview](https://ggeorge73.github.io/Law-Suite/) |
 | [MyWowPet](https://github.com/Ggeorge73/mywowpet) | Shopify-connected e-commerce delivery, Firebase integration, automated testing, CI/CD, security gates, and operational documentation | [Case study](case-studies/mywowpet.md) · [Live launch page](https://www.mywowpet.com) |
 | [AlwaysWomen](https://github.com/Ggeorge73/alwayswomen) | Live Shopify storefront delivery, sustainable-fashion merchandising, category navigation, international shopping support, and customer-experience design | [Case study](case-studies/alwayswomen.md) · [Live store](https://alwayswomen.com) |
 | [DiamondEcho](https://github.com/Ggeorge73/DiamondEcho) | AI-enabled property intelligence, deterministic deal analysis, responsible-AI guardrails, React/FastAPI delivery, and frontend/backend CI | [Case study](case-studies/diamond-echo.md) |
